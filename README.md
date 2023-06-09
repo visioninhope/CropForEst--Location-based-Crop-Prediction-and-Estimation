@@ -47,7 +47,7 @@ Result Graph
 ### Installation
 - Clone the repository: git clone https://github.com/SuriyaaVijay/CropForEst--Location-based-Crop-Prediction-and-Estimation
 - Open the project in a Code Editor like VS Code
-- Intall dependancies using requirements.txt
+- Install dependancies using requirements.txt
 - Create API token from OpenWeatherMap and replace it 
 
 ### Contributing
