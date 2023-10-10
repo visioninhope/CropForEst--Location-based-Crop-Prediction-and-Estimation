@@ -1,6 +1,7 @@
 # 🌾CropForEst--Location-based-Crop-Prediction-and-Estimation
 
-## Full project code available with [Report](https://github.com/SuriyaaVijay/CropForEst--Location-based-Crop-Prediction-and-Estimation/blob/main/Review%20Documents/Project_Report.pdf) 
+## Mail to [suriyaa2002@gmail.com](mailto:suriyaa2002@gmail.com)
+## Full Project Code and Report available
 
 ### Kindly Star this Repository ⚡
 This project focuses on addressing the challenges in the agriculture industry, particularly in the areas of crop prediction and price estimation. Accurately predicting crop yield production and crop demand is crucial for efficient resource allocation and profitability. Traditional methods of prediction are often time-consuming and prone to errors, leading to inefficient resource utilization and revenue loss. To overcome these challenges, an intelligent platform leveraging machine learning algorithms has been developed.
